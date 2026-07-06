@@ -1,0 +1,26 @@
+{
+  "name": "sniips-text-expander",
+  "version": "1.0.0",
+  "description": "Text Expander creates custom text snippets and shortcuts that expand as you type on any device",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "text-expander",
+    "text-expansion",
+    "snippets",
+    "productivity",
+    "shortcuts",
+    "autotext",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Sniips",
+  "license": "ISC",
+  "homepage": "https://sniips.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sniips/text-expander.git"
+  }
+}
